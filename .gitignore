@@ -26,3 +26,4 @@ eval/reports/
 eval/rag/init/kb_ids.json
 eval/rag/dataset/doc_id_map.json
 eval/rag/init/intent_ids.json
+.workbuddy
